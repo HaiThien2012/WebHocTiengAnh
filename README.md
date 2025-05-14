@@ -1,1 +1,564 @@
 # WebHocTiengAnh
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHINH PHỤC TOÀN DIỆN NGỮ PHÁP TIẾNG ANH</title>
+    <style>
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #ADD8E6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #0056b3;
+    border-radius: 4px;
+}
+
+main {
+    padding: 30px 15px;
+}
+
+h2 {
+    color: #007BFF;
+    font-size: 1.8em;
+}
+
+h3 {
+    color: #FF0000;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+section p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding:
+    </style>
+
+</head>
+<body>
+    <header>
+        <h1>CHINH PHỤC TOÀN DIỆN NGỮ PHÁP TIẾNG ANH</h1>
+        <nav>
+            <ul>
+                <li><a href="#twelve-tenses">12 thì trong tiếng Anh</a></li>
+                <li><a href="#passive-voice">Câu bị động</a></li>
+                <li><a href="#modal-verbs">Động từ khiếm khuyết</a></li>
+                <li><a href="#comparison">So sánh</a></li>
+                <li><a href="#gerund-vs-infinitive">Danh động từ và động từ nguyên thể</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- I. 12 thì trong tiếng Anh -->
+        <section id="twelve-tenses">
+            <h2>I. 12 thì trong tiếng Anh</h2>
+
+            <!-- 1. Hiện tại đơn -->
+            <section id="present-simple">
+                <h3>Hiện tại đơn (Present Simple)</h3>
+            <p><strong>Công thức:</strong> S + V (nguyên mẫu) <br>
+            Ví dụ: She works every day.</p>
+            <p><strong>Dấu hiệu nhận biết:</strong> Always, usually, every day, often, never, sometimes.</p>
+            <p><strong>Cách dùng:</strong> Diễn tả hành động, sự việc xảy ra thường xuyên, thói quen, sự thật hiển nhiên.</p>
+        </section>
+
+            <!-- Hiện tại tiếp diễn -->
+            <section id="present-continuous">
+            <h3>Hiện tại tiếp diễn (Present Continuous)</h3>
+            <p><strong>Công thức:</strong> S + am/is/are + V-ing <br>
+            Ví dụ: She is working right now.</p>
+            <p><strong>Dấu hiệu nhận biết:</strong> Now, at the moment, right now, currently.</p>
+            <p><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại thời điểm nói.</p>
+        </section>
+
+            <!-- Hiện tại hoàn thành -->
+            <section id="present-perfect">
+            <h3>Hiện tại hoàn thành (Present Perfect)</h3>
+            <p><strong>Công thức:</strong> S + have/has + V3 (past participle) <br>
+            Ví dụ: She has worked here for 5 years.</p>
+            <p><strong>Dấu hiệu nhận biết:</strong> Ever, never, already, yet, for, since.</p>
+            <p><strong>Cách dùng:</strong> Diễn tả hành động đã xảy ra trong quá khứ và còn ảnh hưởng đến hiện tại.</p>
+        </section>
+
+             <!-- Hiện tại hoàn thành tiếp diễn -->
+             <section id="present-perfect-continuous">
+             <h3>Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)</h3>
+             <p><strong>Công thức:</strong> S + have/has + been + V-ing <br>
+             Ví dụ: She has been working all day.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> For, since, all day, recently, lately.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại.</p>
+        </section>
+
+             <!-- Quá khứ đơn -->
+             <section id="past-simple">
+             <h3>Quá khứ đơn (Past Simple)</h3>
+             <p><strong>Công thức:</strong> S + V2 (quá khứ đơn) <br>
+             Ví dụ: She worked yesterday.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> Yesterday, last, ago, in 2010, when.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động xảy ra và kết thúc trong quá khứ.</p>
+        </section>
+
+             <!-- Quá khứ tiếp diễn -->
+             <section id="past-continuous">
+             <h3>Quá khứ tiếp diễn (Past Continuous)</h3>
+             <p><strong>Công thức:</strong> S + was/were + V-ing <br>
+             Ví dụ: She was working at 5 PM yesterday.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> At that time, while, when.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.</p>
+        </section>
+             <!-- Quá khứ hoàn thành -->
+             <section id="past-perfect">
+             <h3>Quá khứ hoàn thành (Past Perfect)</h3>
+             <p><strong>Công thức:</strong> S + had + V3/ed <br>
+             Ví dụ: She had finished her homework before dinner.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> Before, after, by the time, already, when, as soon as.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả một hành động đã hoàn thành trước một hành động khác trong quá khứ.</p>
+        </section>
+
+             <!-- Quá khứ hoàn thành tiếp diễn -->
+             <section id="past-perfect-continuous">
+             <h3>Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)</h3>
+             <p><strong>Công thức:</strong> S + had been + V-ing <br>
+             Ví dụ: She had been studying for two hours before her friend arrived.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> For, since, before, by the time + (khoảng thời gian).</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động đã xảy ra liên tục trong một khoảng thời gian trước một hành động khác trong quá khứ.</p>
+        </section>
+             <!-- Tương lai đơn -->
+             <section id="future-simple">
+             <h3>Tương lai đơn (Future Simple)</h3>
+             <p><strong>Công thức:</strong> S + will + V (nguyên mẫu) <br>
+             Ví dụ: She will work tomorrow.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> Tomorrow, next, in the future.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động sẽ xảy ra trong tương lai.</p>
+        </section>
+
+             <!-- Tương lai tiếp diễn -->
+             <section id="future-continuous">
+             <h3>Tương lai tiếp diễn (Future Continuous)</h3>
+             <p><strong>Công thức:</strong> S + will be + V-ing <br>
+             Ví dụ: She will be working at 5 PM tomorrow.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> At that time tomorrow, next week.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại một thời điểm xác định trong tương lai.</p>
+        </section>
+
+             <!-- Tương lai hoàn thành -->
+             <section id="future-perfect">
+             <h3>Tương lai hoàn thành (Future Perfect)</h3>
+             <p><strong>Công thức:</strong> S + will have + V3 (past participle) <br>
+             Ví dụ: She will have finished the work by tomorrow.</p>
+             <p><strong>Dấu hiệu nhận biết:</strong> By tomorrow, by next week.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</p>
+        </section>
+
+             <!-- Tương lai hoàn thành tiếp diễn -->
+             <section id="future-perfect-continuous">
+             <h3>Tương lai hoàn thành tiếp diễn (Future Perfect Continuous)</h3>
+             <p><strong>Công thức:</strong> S + will have been + V-ing <br>
+             Ví dụ: She will have been working for 5 hours by tomorrow.</p>
+            <p><strong>Dấu hiệu nhận biết:</strong> By tomorrow, for 5 hours.</p>
+             <p><strong>Cách dùng:</strong> Diễn tả hành động sẽ kéo dài trong một khoảng thời gian trước một thời điểm xác định trong tương lai.</p>
+        </section>
+        <!-- II. Câu bị động -->
+        <section id="passive-voice">
+            <h2>II. Câu bị động</h2>
+
+            <p><strong>Công thức chung:</strong> S + be + V3 (past participle)</p>
+            <p><strong>Lưu ý:</strong> Tùy theo thì của câu chủ động mà ta chia "be" và giữ nguyên V3.</p>
+
+            <table border="1" cellpadding="8" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Thì</th>
+                        <th>Câu chủ động</th>
+                        <th>Câu bị động</th>
+                        <th>Ví dụ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Hiện tại đơn</td>
+                        <td>S + V(s/es) + O</td>
+                        <td>S + am/is/are + V3 + O</td>
+                        <td>The book is read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Hiện tại tiếp diễn</td>
+                        <td>S + am/is/are + V-ing + O</td>
+                        <td>S + am/is/are being + V3 + O</td>
+                        <td>The book is being read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Hiện tại hoàn thành</td>
+                        <td>S + have/has + V3 + O</td>
+                        <td>S + have/has been + V3 + O</td>
+                        <td>The book has been read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Hiện tại hoàn thành tiếp diễn</td>
+                        <td>S + have/has been + V-ing + O</td>
+                        <td>S + have/has been being + V3 + O</td>
+                        <td>The book has been being read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Quá khứ đơn</td>
+                        <td>S + V2 + O</td>
+                        <td>S + was/were + V3 + O</td>
+                        <td>The book was read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Quá khứ tiếp diễn</td>
+                        <td>S + was/were + V-ing + O</td>
+                        <td>S + was/were being + V3 + O</td>
+                        <td>The book was being read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Quá khứ hoàn thành</td>
+                        <td>S + had + V3 + O</td>
+                        <td>S + had been + V3 + O</td>
+                        <td>The book had been read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Quá khứ hoàn thành tiếp diễn</td>
+                        <td>S + had been + V-ing + O</td>
+                        <td>S + had been being + V3 + O</td>
+                        <td>The book had been being read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Tương lai đơn</td>
+                        <td>S + will + V + O</td>
+                        <td>S + will be + V3 + O</td>
+                        <td>The book will be read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Tương lai gần (be going to)</td>
+                        <td>S + am/is/are going to + V + O</td>
+                        <td>S + am/is/are going to be + V3 + O</td>
+                        <td>The book is going to be read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Tương lai hoàn thành</td>
+                        <td>S + will have + V3 + O</td>
+                        <td>S + will have been + V3 + O</td>
+                        <td>The book will have been read by her.</td>
+                    </tr>
+                    <tr>
+                        <td>Tương lai hoàn thành tiếp diễn</td>
+                        <td>S + will have been + V-ing</td>
+                        <td>S + will have been + being + V3</td>
+                        <td>The book will have been being read by her for two hours by 5 PM.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p><strong>Ghi chú:</strong> Một số thì như "Hiện tại hoàn thành tiếp diễn" hoặc "Tương lai hoàn thành tiếp diễn" rất ít dùng ở thể bị động.</p>
+        </section>
+<!-- III. Động từ khiếm khuyết trong tiếng Anh -->
+<section id="modal-verbs">
+    <h2>III. Động từ khiếm khuyết (Modal Verbs)</h2>
+
+    <h3>1. Một số động từ khiếm khuyết ở hiện tại</h3>
+    <ul>
+        <li>Can, could, may, might, must, shall, should, will, would, ought to, have to, had better, be able to</li>
+    </ul>
+
+    <h3>2. Dạng viết tắt của động từ khiếm khuyết</h3>
+    <ul>
+        <li>must not → mustn't</li>
+        <li>cannot → can't</li>
+        <li>could not → couldn't</li>
+        <li>should not → shouldn't</li>
+        <li>would not → wouldn't</li>
+        <li>might not → mightn't</li>
+        <li>will not → won't</li>
+        <li>shall not → shan't</li>
+        <li>have to → không có dạng viết tắt trực tiếp, nhưng dùng như: I've to go (ít dùng)</li>
+    </ul>
+
+    <h3>3. Cấu trúc chung</h3>
+
+    <table border="1" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Dạng</th>
+                <th>Cấu trúc</th>
+                <th>Ví dụ</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Khẳng định</td>
+                <td>S + Modal Verb + V (nguyên thể)</td>
+                <td>She can swim.</td>
+            </tr>
+            <tr>
+                <td>Phủ định</td>
+                <td>S + Modal Verb + not + V (nguyên thể)</td>
+                <td>She cannot swim.</td>
+            </tr>
+            <tr>
+                <td>Nghi vấn</td>
+                <td>Modal Verb + S + V (nguyên thể)?</td>
+                <td>Can she swim?</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>4. Cách dùng và ví dụ</h3>
+
+    <ul>
+        <li><strong>Can:</strong> khả năng hiện tại<br>Ex: I can speak English.</li>
+        <li><strong>Could:</strong> khả năng trong quá khứ<br>Ex: I could swim when I was five.</li>
+        <li><strong>May:</strong> xin phép hoặc khả năng<br>Ex: May I borrow your pen?</li>
+        <li><strong>Might:</strong> khả năng thấp<br>Ex: It might rain later.</li>
+        <li><strong>Must:</strong> sự bắt buộc mạnh mẽ<br>Ex: You must wear a helmet.</li>
+        <li><strong>Have to:</strong> sự bắt buộc bên ngoài<br>Ex: I have to finish my homework.</li>
+        <li><strong>Not have to:</strong> không cần thiết<br>Ex: You don't have to come early.</li>
+        <li><strong>Mustn't:</strong> cấm đoán<br>Ex: You mustn't smoke here.</li>
+        <li><strong>Had better:</strong> lời khuyên mạnh<br>Ex: You had better study harder.</li>
+        <li><strong>Ought to:</strong> lời khuyên<br>Ex: You ought to respect your parents.</li>
+        <li><strong>Will:</strong> dự đoán, lời hứa<br>Ex: I will call you tonight.</li>
+        <li><strong>Shall:</strong> đề nghị (thường dùng với "I" và "we")<br>Ex: Shall we go now?</li>
+        <li><strong>Would:</strong> yêu cầu lịch sự, thói quen quá khứ<br>Ex: Would you like some tea?</li>
+        <li><strong>Be able to:</strong> có khả năng (dùng thay "can" ở thì hoàn thành, tương lai)<br>Ex: I will be able to drive soon.</li>
+    </ul>
+
+    <h3>5. Động từ khiếm khuyết hoàn thành</h3>
+
+    <table border="1" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Cấu trúc</th>
+                <th>Cách dùng</th>
+                <th>Ví dụ</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Must + have + p.p.</td>
+                <td>Suy luận chắc chắn đã xảy ra</td>
+                <td>He must have left already.</td>
+            </tr>
+            <tr>
+                <td>Can't + have + p.p.</td>
+                <td>Suy luận chắc chắn không xảy ra</td>
+                <td>He can't have stolen the money.</td>
+            </tr>
+            <tr>
+                <td>Must have been + V-ing</td>
+                <td>Suy luận về hành động đang diễn ra</td>
+                <td>She must have been studying all night.</td>
+            </tr>
+            <tr>
+                <td>Should/Ought to + have + p.p.</td>
+                <td>Lẽ ra nên làm nhưng không làm</td>
+                <td>You should have apologized.</td>
+            </tr>
+            <tr>
+                <td>Shouldn't/Oughtn't + have + p.p.</td>
+                <td>Lẽ ra không nên làm</td>
+                <td>You shouldn't have lied.</td>
+            </tr>
+            <tr>
+                <td>Should have + p.p. = was/were supposed to</td>
+                <td>Đáng ra phải làm gì theo kế hoạch</td>
+                <td>He should have finished it by now.</td>
+            </tr>
+            <tr>
+                <td>Could (not) + have + p.p.</td>
+                <td>Khả năng đã có (hoặc không có)</td>
+                <td>She could have won the race.</td>
+            </tr>
+            <tr>
+                <td>May/Might (not) + have + p.p.</td>
+                <td>Khả năng đã xảy ra hoặc không</td>
+                <td>He might have missed the bus.</td>
+            </tr>
+            <tr>
+                <td>Might have been + V-ing</td>
+                <td>Khả năng đang làm gì trong quá khứ</td>
+                <td>They might have been waiting for hours.</td>
+            </tr>
+        </tbody>
+    </table>
+
+</section>
+<!-- IV. So sánh -->
+<section id="comparison">
+    <h2>IV. So sánh trong tiếng Anh</h2>
+
+    <h3>1. So sánh bằng (Equal Comparison)</h3>
+    <p><strong>Công thức:</strong></p>
+    <ul>
+        <li>Khẳng định: S + be/V + as + adjective/adverb + as + Noun/Pronoun</li>
+        <li>Phủ định: S + be/V + not as/so + adjective/adverb + as + Noun/Pronoun</li>
+    </ul>
+    <p><strong>Ví dụ:</strong></p>
+    <ul>
+        <li>She is as tall as her brother.</li>
+        <li>This bag is not as expensive as that one.</li>
+    </ul>
+
+    <h3>2. So sánh hơn (Comparative)</h3>
+    <p><strong>Công thức:</strong></p>
+    <ul>
+        <li>Tính từ ngắn: S + be/V + adjective + "-er" + than + Noun/Pronoun</li>
+        <li>Tính từ dài: S + be/V + more + adjective + than + Noun/Pronoun</li>
+    </ul>
+    <p><strong>Ví dụ:</strong></p>
+    <ul>
+        <li>She is taller than me.</li>
+        <li>This book is more interesting than that one.</li>
+    </ul>
+
+    <h3>3. So sánh nhất (Superlative)</h3>
+    <p><strong>Công thức:</strong></p>
+    <ul>
+        <li>Tính từ ngắn: S + be/V + the + adjective + "-est" + Noun</li>
+        <li>Tính từ dài: S + be/V + the most + adjective + Noun</li>
+    </ul>
+    <p><strong>Ví dụ:</strong></p>
+    <ul>
+        <li>He is the tallest boy in the class.</li>
+        <li>That was the most exciting trip I've ever had.</li>
+    </ul>
+</section>
+<!-- V. Danh động từ và động từ nguyên thể -->
+<section id="gerund-vs-infinitive">
+    <h2>V. Danh động từ và Động từ nguyên thể</h2>
+    
+    <h3>A. Danh động từ (Gerund - V-ing)</h3>
+    <h4>Khái niệm</h4>
+    <p>Danh động từ (Gerund) là dạng V-ing của động từ, dùng như một danh từ trong câu. Ví dụ: <em>swimming, reading, dancing</em>.</p>
+    
+    <h4>Khi nào dùng Gerund</h4>
+    <ul>
+        <li>Sau các động từ như: <strong>enjoy, avoid, admit, deny, keep, finish, practice, consider, suggest, mind...</strong></li>
+        <li>Sau giới từ: <strong>interested in, good at, afraid of, tired of...</strong></li>
+        <li>Để chỉ một hoạt động hoặc hành động chung chung.</li>
+    </ul>
+    
+    <h4>Các công thức quen thuộc với Gerund</h4>
+    <ul>
+        <li>to be busy + V-ing</li>
+        <li>can't help + V-ing</li>
+        <li>feel like + V-ing</li>
+        <li>there's no point in + V-ing</li>
+        <li>spend time + V-ing</li>
+        <li>have fun + V-ing</li>
+        <li>sit/stand/lie + expression + V-ing...</li>
+    </ul>
+    
+    <h4>Ví dụ minh họa</h4>
+    <ul>
+        <li>I enjoy reading books.</li>
+        <li>She is busy working on her project.</li>
+    </ul>
+
+    <h3>B. Động từ nguyên thể có "to" (To-infinitive)</h3>
+    <h4>Khái niệm</h4>
+    <p>Động từ nguyên thể với "to" (to-infinitive) là dạng cơ bản của động từ, thường chỉ mục đích, sự mong muốn hoặc hành động trong tương lai. Ví dụ: <em>to go, to eat, to study</em>.</p>
+    
+    <h4>Khi nào dùng To-V</h4>
+    <ul>
+        <li>Để chỉ mục đích: <strong>He went to the store to buy milk.</strong></li>
+        <li>Để diễn tả sự mong muốn, dự định: <strong>I hope to see you soon.</strong></li>
+        <li>Sau một số động từ: <strong>want, need, decide, hope, expect, agree, plan, promise, refuse, seem, appear, learn...</strong></li>
+    </ul>
+    
+    <h4>Công thức dùng To-V</h4>
+    <ul>
+        <li>Sau các động từ chỉ sự mong muốn: <strong>want to, need to, expect to...</strong></li>
+        <li>Cụm từ đặc biệt: <strong>make up one's mind to-V, take care to-V, make sure to-V, take the trouble to-V</strong></li>
+    </ul>
+    
+    <h4>Ví dụ minh họa</h4>
+    <ul>
+        <li>She promised to help me.</li>
+        <li>They decided to go for a walk.</li>
+    </ul>
+
+    <h3>C. Động từ nguyên thể không "to" (Bare infinitive)</h3>
+    <h4>Khái niệm</h4>
+    <p>Động từ nguyên thể không "to" (bare infinitive) là dạng cơ bản của động từ mà không có "to". Nó thường được dùng sau một số động từ đặc biệt.</p>
+    
+    <h4>Khi nào dùng Bare-V</h4>
+    <ul>
+        <li>Sau các động từ đặc biệt: <strong>let, make, help, see, hear, feel, watch, notice...</strong></li>
+        <li>Sau động từ chỉ sự bắt buộc hoặc yêu cầu: <strong>must, can, should...</strong></li>
+    </ul>
+    
+    <h4>Công thức dùng Bare-V</h4>
+    <ul>
+        <li>Sau các động từ đặc biệt: <strong>let, make, help...</strong></li>
+    </ul>
+    
+    <h4>Ví dụ minh họa</h4>
+    <ul>
+        <li>She made me laugh.</li>
+        <li>I heard him sing.</li>
+    </ul>
+</section>
+
+    </main>
+
+    </header>
+
+    <footer>
+        <p>&copy; 2025 Học Tiếng Anh</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
